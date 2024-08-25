@@ -14,3 +14,5 @@ This is my first repository on the Github Acccount.
     - git add .
     - git status
     - git commit -m "linux change"
+    - git branch -M main
+    - git push -u origin main
